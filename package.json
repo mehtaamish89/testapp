@@ -1,0 +1,25 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "just a test app to connect to aws db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehtaamish89/testapp.git"
+  },
+  "author": "amish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehtaamish89/testapp/issues"
+  },
+  "homepage": "https://github.com/mehtaamish89/testapp#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
